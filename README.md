@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hey there 💪
+I'm ***Zerith***, an aspiring ***ethical hacker*** in Hungary.
+I break into systems, assess them, and leave like nothing happened.
 
-<!--
-**Zerith-Tech/Zerith-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m advancing through **Hack The Box** labs/modules and sharpening offensive security skills.
 
-Here are some ideas to get you started:
+I’m currently learning **low-level** hacking through **pwn.college**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m looking to collaborate on Security research, CTF challenges, and offensive tooling.
+
+I’m looking for help with **improving my exploit development workflow** and **deepening kernel-level understanding**.
+
+How to reach me?
+Email me at: zerith.public@gmail.com
+
+**Some Fun Facts:** 
+ - CWES certified
+ - Love networking with like-minded people
+ - Hobbies: Movies, anime, gym, hacking, self-improvement
