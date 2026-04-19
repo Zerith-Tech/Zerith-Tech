@@ -2,13 +2,9 @@
 I'm ***Zerith***, an aspiring ***ethical hacker*** in Hungary.
 I break into systems, assess them, and leave like nothing happened.
 
-I’m advancing through **Hack The Box** labs/modules and sharpening offensive security skills.
-
-I’m currently learning **low-level** hacking through **pwn.college**.
+I’m currently learning **Software Exploitation** through **RET2 Wargames**.
 
 I’m looking to collaborate on Security research, CTF challenges, and offensive tooling.
-
-I’m looking for help with **improving my exploit development workflow** and **deepening kernel-level understanding**.
 
 How to reach me?
 Email me at: zerith.public@gmail.com
