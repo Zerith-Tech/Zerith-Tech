@@ -5,6 +5,7 @@ Vulnerability Research & Binary Exploitation enthusiast. I use this space to doc
 ## Featured Work & Write-ups
 *   **SecureHash** - Memory corruption via global state retention, an off-by-one pointer calculation, and a bounded loop logic flaw. [(Link to write-up)](https://github.com/Zerith-Tech/RET2-Journey/blob/5d6f38f257fdb777bbd4b203805bb40d4bfada84/Memory%20Corruption/Level%203%20-%20SecureHash.md)
 *   **Cloud Scale Security** - Out-of-bounds (OOB) array write / Stack smashing with restricted memory constraints. [(Link to write-up)](https://github.com/Zerith-Tech/RET2-Journey/blob/5d6f38f257fdb777bbd4b203805bb40d4bfada84/Shellcoding/Level%203%20-%20Cloud%20Scale%20Security.md)
+*   **Cache Machine (Mission 0)** - Cryptographic logic bypass, integer-driven linear buffer overflow, and an out-of-bounds (OOB) array write. [(Link to write-up)](https://github.com/Zerith-Tech/RET2-Journey/blob/536947a4317b22cde209618544d46605eda5a738/Mission%200.md)
 
 ## Current Focus
 *   Grinding through [ret2](https://github.com/ret2)
